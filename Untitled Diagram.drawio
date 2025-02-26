@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
   <diagram name="Page-1" id="iZPRVvUZJgfS3Uzx2dsa">
-    <mxGraphModel dx="1758" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2916" dy="1141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
           <mxGeometry x="640" y="400" width="330" height="400" as="geometry" />
         </mxCell>
         <mxCell id="_DwdFX1-hGPBB4Q3OXOl-20" value="Virtual Network Prod" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=light-dark(#7EA6E0,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="329" y="420" width="270" height="40" as="geometry" />
+          <mxGeometry x="332" y="420" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_DwdFX1-hGPBB4Q3OXOl-21" value="Virtual Network dev/test/uat" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=light-dark(#7EA6E0,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="669" y="420" width="270" height="40" as="geometry" />
@@ -71,10 +71,10 @@
           <mxGeometry x="338" y="470" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_DwdFX1-hGPBB4Q3OXOl-27" value="Resource groups" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=light-dark(#E1D5E7,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="379" y="540" width="150" height="250" as="geometry" />
+          <mxGeometry x="386" y="540" width="150" height="250" as="geometry" />
         </mxCell>
         <mxCell id="_DwdFX1-hGPBB4Q3OXOl-28" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="379" y="520" width="21.25" height="20" as="geometry" />
+          <mxGeometry x="390" y="520" width="21.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_DwdFX1-hGPBB4Q3OXOl-29" value="APIM" style="image;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/azure2/integration/API_Management_Services.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="416.25" y="544" width="32.5" height="30" as="geometry" />
@@ -150,6 +150,18 @@
         </mxCell>
         <mxCell id="_DwdFX1-hGPBB4Q3OXOl-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.442;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="_DwdFX1-hGPBB4Q3OXOl-9" target="_DwdFX1-hGPBB4Q3OXOl-61">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_DwdFX1-hGPBB4Q3OXOl-70" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="300" y="400" width="22.93" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="_DwdFX1-hGPBB4Q3OXOl-71" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="640" y="400" width="22.93" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="_DwdFX1-hGPBB4Q3OXOl-72" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="400" width="22.93" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="_DwdFX1-hGPBB4Q3OXOl-76" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Policy.svg;" vertex="1" parent="1">
+          <mxGeometry x="386" y="153" width="22.5" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
