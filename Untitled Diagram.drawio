@@ -40,6 +40,9 @@
         <mxCell id="_DwdFX1-hGPBB4Q3OXOl-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Policy.svg;" vertex="1" parent="1">
           <mxGeometry x="567.5" y="153" width="22.5" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="_DwdFX1-hGPBB4Q3OXOl-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="220" y="310" width="18.59" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
