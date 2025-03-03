@@ -298,13 +298,13 @@
         <mxCell id="Ro3XPkBHZC2kMZzirAC5-47" value="Policy Assgnment" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Policy.svg;" vertex="1" parent="Ro3XPkBHZC2kMZzirAC5-44">
           <mxGeometry x="207.01000000000005" y="5" width="36.56" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Ro3XPkBHZC2kMZzirAC5-49" value="Landing Zone Europe" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E6E6E6,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+        <mxCell id="Ro3XPkBHZC2kMZzirAC5-49" value="Landing Zone Europe&lt;div&gt;Main region&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E6E6E6,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="1330" y="344" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Ro3XPkBHZC2kMZzirAC5-50" value="Landing Zone Europe" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E6E6E6,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+        <mxCell id="Ro3XPkBHZC2kMZzirAC5-50" value="Landing Zone China&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E6E6E6,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="1330" y="654" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Ro3XPkBHZC2kMZzirAC5-51" value="Landing Zone Europe" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E6E6E6,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+        <mxCell id="Ro3XPkBHZC2kMZzirAC5-51" value="Landing Zone Asia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E6E6E6,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="1330" y="504" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Ro3XPkBHZC2kMZzirAC5-52" value="VPN Gateway" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Network_Gateways.svg;" vertex="1" parent="1">
@@ -313,13 +313,28 @@
         <mxCell id="Ro3XPkBHZC2kMZzirAC5-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;entryX=1.002;entryY=0.517;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ro3XPkBHZC2kMZzirAC5-49" target="Ro3XPkBHZC2kMZzirAC5-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Ro3XPkBHZC2kMZzirAC5-56" value="Deployed using scripts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ro3XPkBHZC2kMZzirAC5-53">
+          <mxGeometry x="0.2137" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ro3XPkBHZC2kMZzirAC5-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;entryX=1;entryY=0.517;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ro3XPkBHZC2kMZzirAC5-51" target="Ro3XPkBHZC2kMZzirAC5-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1110" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ro3XPkBHZC2kMZzirAC5-57" value="Deployed using scripts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ro3XPkBHZC2kMZzirAC5-54">
+          <mxGeometry x="-0.1939" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ro3XPkBHZC2kMZzirAC5-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.521;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="Ro3XPkBHZC2kMZzirAC5-50" target="Ro3XPkBHZC2kMZzirAC5-33">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ro3XPkBHZC2kMZzirAC5-58" value="Deployed using scripts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ro3XPkBHZC2kMZzirAC5-55">
+          <mxGeometry x="-0.0243" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
