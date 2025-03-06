@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ro3XPkBHZC2kMZzirAC5-33" value="Enterprise Landing Zone" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=light-dark(#E6E6E6,var(--ge-dark-color, #121212));" parent="1" vertex="1">
-          <mxGeometry x="-80" y="40" width="1190" height="1010" as="geometry" />
+          <mxGeometry x="-60" y="45" width="1190" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="_DwdFX1-hGPBB4Q3OXOl-1" value="Management group and subscription organization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#D4E1F5,var(--ge-dark-color, #121212));labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;textDirection=ltr;" parent="1" vertex="1">
           <mxGeometry x="200" y="110" width="540" height="250" as="geometry" />
