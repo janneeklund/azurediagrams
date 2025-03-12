@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.1.0">
   <diagram name="Page-1" id="iZPRVvUZJgfS3Uzx2dsa">
     <mxGraphModel dx="2916" dy="1141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -299,7 +299,7 @@
           <mxGeometry x="207.01000000000005" y="5" width="36.56" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Ro3XPkBHZC2kMZzirAC5-49" value="Landing Zone Europe&lt;div&gt;Main region + Asia&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E6E6E6,var(--ge-dark-color, #121212));" parent="1" vertex="1">
-          <mxGeometry x="1330" y="344" width="210" height="120" as="geometry" />
+          <mxGeometry x="1330" y="358.5" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Ro3XPkBHZC2kMZzirAC5-50" value="Landing Zone China&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E6E6E6,var(--ge-dark-color, #121212));" parent="1" vertex="1">
           <mxGeometry x="1330" y="654" width="210" height="120" as="geometry" />
